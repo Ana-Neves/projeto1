@@ -7,7 +7,7 @@ fun main() {
     class Vendedor {
     var nome:String?= null
     var idade:Byte?= null
-    var gmail:String?= null
+    var email:String?= null
     var dataNascimento:Date?= null
     var cpf:String?= null
   }
